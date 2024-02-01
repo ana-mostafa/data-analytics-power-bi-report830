@@ -9,3 +9,5 @@ created executive summary page
 created product details page with slicer bar with 2 buttons to show and hide the toolbar
 Cretaed a stores map page
 Colpleted all tasks but wasnt able to to understand the Tooltip page
+Fixed cross filtering by editing interactions for  viusals
+created the 4 buttons for navigation and grouped them and copied them to the rest of the pages of the report
