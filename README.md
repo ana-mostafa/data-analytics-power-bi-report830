@@ -12,3 +12,5 @@ Colpleted all tasks but wasnt able to to understand the Tooltip page
 Fixed cross filtering by editing interactions for  viusals
 created the 4 buttons for navigation and grouped them and copied them to the rest of the pages of the report
 trying to reconnect
+connects to the Postgres database server hosted on Microsoft Azure
+query the database and save the questions to sql files and the answers to csv files
